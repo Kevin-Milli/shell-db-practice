@@ -4,10 +4,10 @@ Benvenuti nella repository Shell Scripting & Database Automation!
 Questa repo contiene una raccolta di script Bash utili per la gestione di file, compressione, organizzazione e interazione con database Oracle. 
 Qui troverai esercitazioni pratiche che ti aiuteranno a migliorare le tue abilità in shell scripting e nella connessione a database.
 
-Contenuti
-shell_esercizi_1: Compressione di File
-shell_esercizi_2: Gestione di File CSV
-shell_esercizi_3: Automazione Database con Oracle SQL
+#### Contenuti
+- **shell_esercizi_1:** Compressione di File
+- **shell_esercizi_2:** Gestione di File CSV
+- **shell_esercizi_3:** Automazione Database con Oracle SQL
 
 ## Esercizio 1: Compressione di File
 ### Descrizione
