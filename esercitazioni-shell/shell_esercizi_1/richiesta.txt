@@ -1,0 +1,2 @@
+Modifica lo script precedente e invece di copiare il file 
+crea un archivio zip e rinominalo con il sequente schema: `anno_mese_giorno_ora.zip`

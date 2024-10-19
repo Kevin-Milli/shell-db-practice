@@ -1,0 +1,5 @@
+Esercizio
+Dobbiamo realizzare uno script che:
+    1) si collega al DB oracle e crea un nuovo utente "shell" con password "script"
+    2) si collega al DB con il nuovo utente appena creato e crea la tabella users(cf primary key, name, age, dins SYSDATE)
+    3) si collega al DB con il nuovo utente e fa gli inserimenti nella tabella recuperando i record da un csv `users.csv`

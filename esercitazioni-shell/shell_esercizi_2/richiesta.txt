@@ -1,0 +1,8 @@
+Esercizio
+Supponiamo che un cliente ogni mese ci fornisce un file csv contenente dei dati
+e che in questo file, la prima riga contiene la data relativa ad i dati contenuti all'interno.
+Realizza uno script shell che:
+    - legge tutti i file contenuti in una cartella IN
+    - estrae dalla prima riga di ogni file la data
+    - in una cartella OUT crea una sotto cartella con la data letta nel singolo file
+    - nella sotto cartella appena creata sposta il file letto e rinominalo con il timestamp_nomefile
